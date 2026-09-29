@@ -1,5 +1,3 @@
-
-
 \# nassauTickets
 
 
@@ -166,13 +164,17 @@ Informacoes sensiveis, como senhas e credenciais de banco de dados, nao devem se
 
 |---|---|---|
 
-| Maria Luiza Menezes | A DEFINIR | Desenvolvedor |
+| Maria Luiza Menezes Cordeiro | 01899275 | Desenvolvedor |
 
-| Matheus Henrique Braga Carvalho | A DEFINIR | Testador |
+| Matheus Henrique Braga Carvalho | 01901320 | Testador |
 
-| Igor Vitorio Ribeiro Coutinho | A DEFINIR | Scrum Master |
+| Igor Vitorio Ribeiro Coutinho | 01907958 | Scrum Master |
 
-| Simone Cordeiro | A DEFINIR | Documentador |
+| Simone Cordeiro | 01880148 | Documentador |
+
+| Raul Miguel Souza Brederode | 01624548 | Testador |
+
+| Lucas Henrique Souza da Silva | 01793356 | Desenvolvedor |
 
 
 
